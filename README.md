@@ -2,8 +2,7 @@
 
 ### I'm Farid
 
-- 🔭 I’m currently working in Telewebion and Thumbzone.
-- 🌱 I’m currently learning NodeJS.
+- 🔭 I’m currently working in Sheyda and Thumbzone.
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
